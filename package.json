@@ -6,7 +6,4 @@
   "scripts": {
     "start": "node app.js"
   },
-  "dependencies": {
-    "http": "^0.0.1"
-  }
 }
